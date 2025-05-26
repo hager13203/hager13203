@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Hager Amr
 
-## 👩‍💻 Front-End Developer | UI/UX Designer
+## 👩‍💻 Front-End Developer 
 
 I'm a passionate Front-End Developer with experience in building responsive and user-friendly web applications. I specialize in modern JavaScript frameworks like **React**, and I love turning designs into pixel-perfect interfaces.
 
