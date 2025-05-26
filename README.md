@@ -1,16 +1,47 @@
-<h1 align="center">Hi 👋, I'm Hager Amr</h1>
-<h3 align="center">A passionate Frontend Developer crafting smooth, user-friendly web experiences</h3>
+# Create a README.md file with the content tailored for Hager Amr (front-end developer)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hager13203" alt="hager13203" /></a> </p>
+# 👋 Hi, I'm Hager Amr
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hager-amr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hager-amr" height="30" width="40" /></a>
-</p>
+## 👩‍💻 Front-End Developer | UI/UX Designer
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+I'm a passionate Front-End Developer with experience in building responsive and user-friendly web applications. I specialize in modern JavaScript frameworks like **React**, and I love turning designs into pixel-perfect interfaces.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hager13203&show_icons=true&locale=en&layout=compact" alt="hager13203" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hager13203&show_icons=true&locale=en" alt="hager13203" /></p>
+## 🛠️ Technologies & Tools
+
+- **Languages**: JavaScript, HTML5, CSS3, TypeScript
+- **Frameworks/Libraries**: React, Next.js, Bootstrap, Tailwind CSS, SASS, Material UI
+- **UI/UX Tools**: Adobe Photoshop, Adobe Illustrator, Figma, Miro, MockFlow
+- **Other**: Git & GitHub, Trello, REST APIs, Firebase
+
+---
+
+## 📂 Featured Projects
+
+### 🛍️ [Swrilo]([https://your-demo-link.com](https://swirlo.netlify.app/))
+A full-stack coffee shop website with Google login, HTTP-only cookie authentication, product filtering, search, browsing, favorites, cart, Stripe payments, user profile, and order history.
+
+### 🌐 [Velvoria]([https://your-demo-link.com](https://velvoria.netlify.app/home))
+•full-stack furniture e-commerce with HTTP-only cookie authentication, Stripe payments, user-friendly UI, and a complete admin dashboard for product and order management.
+
+### 🌐 [MovieVerse](https://movieverseonline.netlify.app/)
+A movie browsing website with search, movie details, trailers, and error handling page.
+
+### 🌐 [Zabbit]([https://your-demo-link.com](https://zabbit.netlify.app/))
+a responsive social media feed web application with interactive Home and Login pages.
+
+---
+
+## 📈 GitHub Stats
+
+![Hager's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react)
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/hager-amr/)
+- 📧 Email:hageramr320@gmail.com
+
+
