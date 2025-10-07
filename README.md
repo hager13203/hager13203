@@ -28,6 +28,8 @@ I'm a passionate Front-End Developer with experience in building responsive and 
 ---
 
 ## 📂 Featured Projects
+### 🎁 [Bubbli](https://bubbli-gifts.netlify.app/)
+Modern and Interactive Gift Store Website built with React.js, React Query, Tailwind CSS, Node.js, Express.js & MongoDB.
 
 ### ☕ [Swrilo](https://swirlo.netlify.app/)
 A full-stack coffee shop website with Google login, HTTP-only cookie authentication, product filtering, search, browsing, favorites, cart, Stripe payments, user profile, and order history.
@@ -40,12 +42,6 @@ A movie browsing website with search, movie details, trailers, and error handlin
 
 ### 🗨️ [Zabbit](https://zabbit.netlify.app/)
 A responsive social media feed web application with interactive Home and Login pages.
-
----
-
-## 📈 GitHub Stats
-
-![Hager's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hager13203&show_icons=true&theme=react)
 
 ---
 
